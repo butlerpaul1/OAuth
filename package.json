@@ -11,6 +11,7 @@
   "dependencies": {
     "ejs": "^2.6.1",
     "express": "^4.16.4",
+    "mongoose": "^5.4.19",
     "nodemon": "^1.18.10",
     "package.json": "^2.0.1",
     "passport": "^0.4.0",
